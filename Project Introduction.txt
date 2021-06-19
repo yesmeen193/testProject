@@ -1,0 +1,12 @@
+my project introduction
+
+This project is designed for the users to facilitate 
+This project is designed for the users to facilitate them to search the availability of products in the 
+difficult times of the pandemic. They can basically know if the product  is available or not in their 
+area without having to go  and search in the different shops. This application is especially very
+ beneficial for the old aged users  or the ones who don't know to write or search because they can simply
+ click  picture and search for the product availability. This is perfect for people of all the age groups
+The name of my application is 'Local Product Finding App' in which users can find a product's 
+availability in their locality and it will also provide information about in which shop people can get 
+the product. There are alot of features included in my app . It will make it easy for people to find 
+availability of the product just by sitting at their own homes. 
