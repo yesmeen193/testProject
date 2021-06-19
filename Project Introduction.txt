@@ -1,4 +1,3 @@
-my project introduction
 
 This project is designed for the users to facilitate 
 This project is designed for the users to facilitate them to search the availability of products in the 
@@ -10,3 +9,13 @@ The name of my application is 'Local Product Finding App' in which users can fin
 availability in their locality and it will also provide information about in which shop people can get 
 the product. There are alot of features included in my app . It will make it easy for people to find 
 availability of the product just by sitting at their own homes. 
+functions
+
+1.) Two types of searches are available which are search by words and by image search .
+2.) Exact location of the shop in which product available will be provided. 
+3.) Price comparison of the same product between different shops .
+4.) Product availability time if not available currently.
+5.) Inbuilt online shopping facility ( if the product is not available in the shops, then the app 
+automatically searches for the best options online)
+6.) Cashback for customer and seller if the shopping is done through app.
+7.) Option of giving ratings for the customers. 
